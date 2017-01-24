@@ -1,5 +1,5 @@
 
-
+```
 /*
      正弦函数: y =Asin（ωx+φ）+C
      A 表示振幅，也就是使用这个变量来调整波浪的高度
@@ -79,3 +79,5 @@ typedef NS_ENUM(NSUInteger, WavesState) {
                            wavesState:(WavesState)wavesState;
 
 @end
+
+```
